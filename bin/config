@@ -1,0 +1,21 @@
+{
+	"keyword":
+	[
+		{
+			"key":"修车"
+		},
+		{
+			"key":"洗车"
+		},
+		{
+			"key":"加油"
+		}
+	],
+	"citypath":"./city",
+	"mysqladdress":"tcp(192.168.1.60:3306)",
+	"mysqlusername":"root",
+	"mysqlpassword":"123456",
+	"mysqldatabase":"yanghu",
+	"mysqldataschem":"CarService",
+	"openkey”:”高德地图openkey”
+}
