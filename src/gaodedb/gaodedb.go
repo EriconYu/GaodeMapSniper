@@ -11,8 +11,6 @@ type Poidb struct {
 	ID       string `json:"id"`
 	Name     string `json:"name"`
 	Location string `json:"location"`
-	Star     uint   `json:"star"`
-	Remark   string `json:"remark"`
 	Img      string `json:"img"`
 }
 
